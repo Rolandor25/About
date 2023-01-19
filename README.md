@@ -1,15 +1,17 @@
-# About
-Descripcion Personal
 <h1 align="center">Hola 👋, soy Rolando</h1>
-<h3 align="center">Ingeniero en informatica y Full Stack Developer</h3>
+<h3 align="center">Ingeniero en informatica y Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rolandor25&label=Profile%20views&color=0e75b6&style=flat" alt="rolandor25" /> </p>
 
 - 🔭 Actualmente trabajo con **Data Analytics + PowerBI para la creacion de Dashboards consolidados para todas las gerencias de la organizacion donde trabajo**
 
+- 🌱 Estoy aprendiendo sobre **Material UI & Firebase**
+
 - 💬 Puedes Prguntarme por **VBA, SQL, Excel, Js, Postgres**
 
-- 📫 Como contactarme **Rolandor25@gmail.com**
+- 📫 Puedes contactarme por **Rolandor25@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/rolando-rosales-4b3227161/](https://www.linkedin.com/in/rolando-rosales-4b3227161/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
